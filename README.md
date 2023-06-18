@@ -1,6 +1,6 @@
 # demat-account-manager
-Language used : Java
-Database Used : MS SQL server
+Language used : Java.
+Database Used : MS SQL server.
 Description : 
   - Using this application user can login as admin or normal user
   - Normal user can login with their credentials to watch stocks, sell or buy the available stocks in the market.
